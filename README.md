@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# COVID-19 Overview Dashboard w/ React
+
+A dashboard to track the impact of COVID-19 global pandemic. Built with React and ♥️
+
+The dashboard is based on [disease.sh - Open Disease Data](https://corona.lmao.ninja/).
+
+Pull requests are welcome.
+
+
+## Technologies Used
+
+- React
+- SASS
+- HTML5
+- Bootstrap 4
+- React Hooks
+- Npm
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
