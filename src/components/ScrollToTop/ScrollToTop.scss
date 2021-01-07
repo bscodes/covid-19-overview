@@ -1,0 +1,29 @@
+.scroll-top-wrapper {
+  .scrollTop {
+    position: fixed; 
+    width: 2.5rem;
+    bottom: 20px;
+    right: 4%;
+    height: 40px;
+    z-index: 1000;
+    cursor: pointer;
+    color: #4a70e2;
+    animation: fadeIn 0.3s;
+    transition: opacity 0.4s;
+    opacity: 0.5;
+
+    &:hover{
+      opacity: 1;
+    }
+  }
+} 
+
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0.5;
+    }
+  }
