@@ -2,6 +2,8 @@
 
 A dashboard to track the impact of COVID-19 global pandemic. Built with React and ♥️
 
+You can see it live at [covidoverview.netlify.app/](https://covidoverview.netlify.app/).
+
 The dashboard is based on [disease.sh - Open Disease Data](https://corona.lmao.ninja/).
 
 Pull requests are welcome.
